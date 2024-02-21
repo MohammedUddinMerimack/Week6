@@ -1,4 +1,4 @@
-Sorted Stack
+
 Week 6 HW Assignment. Upload of Projects 4 and 5 
 
 Mohammed Uddin
