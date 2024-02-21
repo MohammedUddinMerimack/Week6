@@ -1,6 +1,6 @@
-Sorted Stack Week 6 HW Assignment. Upload of Projects 4 and 5
+Week 6 HW Assignment. Upload of Projects 4 and 5
 
-Mohammed Uddin CS6301 ReadMe File SortedStack
+Mohammed Uddin CS6301 ReadMe File SortedLinkedList
 
 SortedLinkedList Program 
 Overview
